@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zlkcyber/pipe-bot.git"
+    "url": "git+https://github.com/Mittyadav/pipe-bot.git"
   },
   "keywords": [
     "pipe",
@@ -29,10 +29,10 @@
     "pipenetwork",
     "pipe-network"
   ],
-  "author": "@zlkcyber",
+  "author": "@iamak_roy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Zlkcyber/pipe-bot/issues"
+    "url": "https://github.com/Mittyadav/pipe-bot/issues"
   },
-  "homepage": "https://github.com/Zlkcyber/pipe-bot#readme"
+  "homepage": "https://github.com/Mittyadav/pipe-bot#readme"
 }
