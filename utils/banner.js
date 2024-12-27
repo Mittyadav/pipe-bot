@@ -13,6 +13,6 @@ const banner = `
  │                                                          │
  ╰─━━━━━━━━━━━━━━━━━━━━━━━━Termux-os━━━━━━━━━━━━━━━━━━━━━━━─╯
                 Running Pipe Network Node BETA CLI Version                
-                   t.me/zlkcyber *** github.com/Mittyadav                  `
+                   t.me/scripthub00 *** github.com/Mittyadav                  `
 
 module.exports = { banner };
