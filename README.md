@@ -57,4 +57,4 @@ With these insights, they can reroute traffic dynamically to avoid bottlenecks, 
    - you need login after you register accounts to get your access token.
    - choose 2 to login to account.
    - finally choose 3 to to run the bot.
-     ![banner](image2.png)
+     ![banner](image3.png)
